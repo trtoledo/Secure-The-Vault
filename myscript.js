@@ -4,7 +4,7 @@ let num1 = 100/10;
 let num2 = 8*5;
 let num3 = 50 - 11;
 
-alert(`${greeting + num1 + num2 + num3}`)
+alert(`${greeting} --> ${num1} / ${num2} / ${num3}`)
 
 
 
